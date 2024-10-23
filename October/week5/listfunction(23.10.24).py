@@ -1,0 +1,11 @@
+lst=[2,5,1,30,14,9,1]
+print(lst)
+print("The maximum no:",max(lst))
+print("The minimum no:",min(lst))
+count=lst.count(1)
+print("The count of nos:",count)
+print("The sum of nos:",sum(lst))
+lst.sort()
+print("Sorted list:",lst)
+lst.reverse()
+print("The reverse of list is:",lst)
