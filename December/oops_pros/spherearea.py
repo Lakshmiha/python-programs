@@ -4,4 +4,4 @@ def sphere_volume(radius):
 
 def sphere_area(radius):
     from math import pi
-    return 4*pi*radius*radius
+    return 2*pi*radius
